@@ -2,116 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Julian Markiewicz</title>
-    <link>http://example.org/tags/</link>
+    <link>https://markiewiczjulian.github.io/tags/</link>
     <description>Recent content in Tags on Julian Markiewicz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2020 10:51:59 +0100</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Nov 2020 10:51:59 +0100</lastBuildDate><atom:link href="https://markiewiczjulian.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>angular</title>
-      <link>http://example.org/tags/angular/</link>
+      <link>https://markiewiczjulian.github.io/tags/angular/</link>
       <pubDate>Wed, 18 Nov 2020 10:51:59 +0100</pubDate>
       
-      <guid>http://example.org/tags/angular/</guid>
+      <guid>https://markiewiczjulian.github.io/tags/angular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github</title>
-      <link>http://example.org/tags/github/</link>
+      <link>https://markiewiczjulian.github.io/tags/github/</link>
       <pubDate>Wed, 18 Nov 2020 10:51:59 +0100</pubDate>
       
-      <guid>http://example.org/tags/github/</guid>
+      <guid>https://markiewiczjulian.github.io/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>http://example.org/tags/html/</link>
+      <link>https://markiewiczjulian.github.io/tags/html/</link>
       <pubDate>Wed, 18 Nov 2020 10:51:59 +0100</pubDate>
       
-      <guid>http://example.org/tags/html/</guid>
+      <guid>https://markiewiczjulian.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jira</title>
-      <link>http://example.org/tags/jira/</link>
+      <link>https://markiewiczjulian.github.io/tags/jira/</link>
       <pubDate>Wed, 18 Nov 2020 10:51:59 +0100</pubDate>
       
-      <guid>http://example.org/tags/jira/</guid>
+      <guid>https://markiewiczjulian.github.io/tags/jira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>news</title>
-      <link>http://example.org/tags/news/</link>
+      <link>https://markiewiczjulian.github.io/tags/news/</link>
       <pubDate>Wed, 18 Nov 2020 10:51:59 +0100</pubDate>
       
-      <guid>http://example.org/tags/news/</guid>
+      <guid>https://markiewiczjulian.github.io/tags/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nodejs</title>
-      <link>http://example.org/tags/nodejs/</link>
+      <link>https://markiewiczjulian.github.io/tags/nodejs/</link>
       <pubDate>Wed, 18 Nov 2020 10:51:59 +0100</pubDate>
       
-      <guid>http://example.org/tags/nodejs/</guid>
+      <guid>https://markiewiczjulian.github.io/tags/nodejs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project management</title>
-      <link>http://example.org/tags/project-management/</link>
+      <link>https://markiewiczjulian.github.io/tags/project-management/</link>
       <pubDate>Wed, 18 Nov 2020 10:51:59 +0100</pubDate>
       
-      <guid>http://example.org/tags/project-management/</guid>
+      <guid>https://markiewiczjulian.github.io/tags/project-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amplify</title>
-      <link>http://example.org/tags/amplify/</link>
+      <link>https://markiewiczjulian.github.io/tags/amplify/</link>
       <pubDate>Mon, 02 Nov 2020 10:51:59 +0100</pubDate>
       
-      <guid>http://example.org/tags/amplify/</guid>
+      <guid>https://markiewiczjulian.github.io/tags/amplify/</guid>
       <description></description>
     </item>
     
     <item>
       <title>authentication</title>
-      <link>http://example.org/tags/authentication/</link>
+      <link>https://markiewiczjulian.github.io/tags/authentication/</link>
       <pubDate>Mon, 02 Nov 2020 10:51:59 +0100</pubDate>
       
-      <guid>http://example.org/tags/authentication/</guid>
+      <guid>https://markiewiczjulian.github.io/tags/authentication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AWS</title>
-      <link>http://example.org/tags/aws/</link>
+      <link>https://markiewiczjulian.github.io/tags/aws/</link>
       <pubDate>Mon, 02 Nov 2020 10:51:59 +0100</pubDate>
       
-      <guid>http://example.org/tags/aws/</guid>
+      <guid>https://markiewiczjulian.github.io/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cognito</title>
-      <link>http://example.org/tags/cognito/</link>
+      <link>https://markiewiczjulian.github.io/tags/cognito/</link>
       <pubDate>Mon, 02 Nov 2020 10:51:59 +0100</pubDate>
       
-      <guid>http://example.org/tags/cognito/</guid>
+      <guid>https://markiewiczjulian.github.io/tags/cognito/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IAM</title>
-      <link>http://example.org/tags/iam/</link>
+      <link>https://markiewiczjulian.github.io/tags/iam/</link>
       <pubDate>Mon, 02 Nov 2020 10:51:59 +0100</pubDate>
       
-      <guid>http://example.org/tags/iam/</guid>
+      <guid>https://markiewiczjulian.github.io/tags/iam/</guid>
       <description></description>
     </item>
     
