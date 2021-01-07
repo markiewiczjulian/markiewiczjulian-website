@@ -141,7 +141,7 @@
       </h1>
 
       
-        <img src="/images/posts/02/cover.png" class="post-cover" />
+        <img src="/images/posts/02/cover.webp" class="post-cover" />
       
 
       <div class="post-content">
@@ -177,7 +177,7 @@ Whole framework is composed of three components: libraries, UI components and CL
 </li>
 <li>
 <p>You will be asked series of questions like your preferred region (choose something closest to you), Amplify user name. Then AWS will prompt you to log in and create IAM user. You can leave all default values there, but one thing that is important is to add the user &ldquo;AdministratorAccess&rdquo;. Otherwise it will not work as expected (AWS Amplify needs this permissions to provision services like Cognito, S3 etc.). When creating the user, save the accessKeyId and secretAccessKey, you will need them in a minute.</p>
-<p><img src="/images/posts/02/01.png" alt=""></p>
+<p><img src="/images/posts/02/01.webp" alt=""></p>
 </li>
 <li>
 <p>Type the accessKeyId and secretAccessKey, when prompted.</p>
@@ -232,16 +232,16 @@ Whole framework is composed of three components: libraries, UI components and CL
 <li>
 <p>I&rsquo;ve added some img because this site had little to no content. Voila, now you should have a working authentication on your website. If you don&rsquo;t have the account you can obviously register. All users can be managed from the IAM Management Console.</p>
 <p>Login:</p>
-<p><img src="/images/posts/02/02.png" alt=""></p>
+<p><img src="/images/posts/02/02.webp" alt=""></p>
 <p>Register:</p>
-<p><img src="/images/posts/02/03.png" alt=""></p>
+<p><img src="/images/posts/02/03.webp" alt=""></p>
 <p>After authentication:</p>
-<p><img src="/images/posts/02/04.png" alt=""></p>
+<p><img src="/images/posts/02/04.webp" alt=""></p>
 </li>
 </ol>
 <h2 id="how-much-will-it-cost">How much will it cost?</h2>
 <p>It is important to address the elephant in the room and talk about money. Cloud solutions can be pricy. In all fairness, right now I still use the free tier in AWS but looking at AWS site about IAM we can read that: &ldquo;IAM is a feature of your AWS account offered at no additional charge. You will be charged only for use of other AWS services by your users.&rdquo;. So in my case when adding authentication I was using mainly Cognito which is priced accordingly:</p>
-<p><img src="/images/posts/02/05.png" alt=""></p>
+<p><img src="/images/posts/02/05.webp" alt=""></p>
 <p>MAU stands for monthly active users (the ones that log in at least once a month) and during the test period of the application I acquired 2 users so 2 x $0.0055 = $0.011, which is just ridiculous. I would be required to pay for it only when more than 50000 users use it monthly. For this price I can test the app for months and pay nothing. The cost is low but we have to remember that my &ldquo;app&rdquo; uses one small part of AWS only, but I think that if we looked up the prices before using services and kept monitoring what happens in our account we can use Amplify for testing purposes and some small private tools for almost free. The cost for business solutions varies, because if we had a lot of users this can get pretty pricy really fast. So here we would need someone who knows ins and outs of AWS and would recommend solutions based on their price and our current requirements.</p>
 <h2 id="conclusion">Conclusion</h2>
 <p>Overall Amplify was a big surprise for me. I had a nice time implementing authentication. All was streamlined, tools were easy to use and were playing great with my stack. Documentation was ok and up to date. Libraries can be used in many ways for example you don&rsquo;t have to use the Amplify UI, which will help in some borderline cases. Price is not an issue when doing some small projects. For big ones I would recommend to speak with someone with a lot of experience in AWS who would be able to recommend solutions based on their price and advantages. The great thing about solutions like AWS is that we don&rsquo;t have to use it all. We can utilize AWS authentication and the rest can be custom made. If you had some spare time I highly recommend to give Amplify a try.</p>
