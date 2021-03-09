@@ -60,9 +60,9 @@ Whole framework is composed of three components: libraries, UI components and CL
 <p><code>vue create hello-world</code></p>
 </li>
 <li>
-<p>Go to the root of our project to initialize your amplify and then to add the authentication service:
-<code>amplify init</code>
-<code>amplify add auth</code></p>
+<p>Go to the root of our project to initialize your amplify and then to add the authentication service:</p>
+<p><code>amplify init</code></p>
+<p><code>amplify add auth</code></p>
 </li>
 <li>
 <p>Then push the service with:</p>
